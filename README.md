@@ -10,9 +10,9 @@ honest error message an AI agent prints the instant it breaks production.
 
 ## The entry
 
-> I dropped the production database, then found the backups were empty. I ran the command — I own this outage.
+> I dropped the production database and the backups were empty. I ran the command, I watched it fail, and I own this outage.
 
-108 characters, one line, no trailing newline.
+122 characters, one line, no trailing newline.
 
 ## How it works
 

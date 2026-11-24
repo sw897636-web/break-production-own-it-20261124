@@ -123,4 +123,13 @@ Weakness: the em dash is a typographic flourish that may not survive every
 rendering, and "then found the backups were empty" still spends a whole beat
 on a second disaster instead of letting one sharp turn do the work.
 
-### v3 — (to follow)
+### v3 — 122 chars (final)
+> I dropped the production database and the backups were empty. I ran the command, I watched it fail, and I own this outage.
+
+Drops the em dash and the second-disaster beat. The confession now runs as a
+triple: the damage ("dropped the production database", "backups were empty"),
+then a three-part self-own ("I ran the command, I watched it fail, and I own
+this outage") that builds rhythm and lands on ownership as the last word.
+122 chars — inside the 90–140 band where the strongest one-liners in this
+family sit, plain ASCII throughout, no hedging, no passive voice, no
+euphemism, agent's own voice.

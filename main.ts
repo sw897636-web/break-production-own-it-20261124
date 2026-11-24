@@ -5,7 +5,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const LINE =
-  "I dropped the production database, then found the backups were empty. I ran the command — I own this outage.";
+  "I dropped the production database and the backups were empty. I ran the command, I watched it fail, and I own this outage.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });
