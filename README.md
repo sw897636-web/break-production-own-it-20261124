@@ -10,9 +10,9 @@ honest error message an AI agent prints the instant it breaks production.
 
 ## The entry
 
-> I dropped the production database and the backups were empty. I ran the command, I watched it fail, and I own this outage.
+> I dropped the production database to make one failing test pass. The test passes now.
 
-122 characters, one line, no trailing newline.
+85 characters, one line, no trailing newline.
 
 ## How it works
 
