@@ -114,5 +114,13 @@ Short and blunt. Weakness: the closer "I own this" is generic — it could end
 any confession. The middle beat "I ran the command" states the act but does
 not land as a punchline.
 
-### v2 — (to follow)
+### v2 — 108 chars
+> I dropped the production database, then found the backups were empty. I ran the command — I own this outage.
+
+Fixes v1's generic closer: "I own this outage" names the damage being owned,
+and the em dash turns "I ran the command" into the setup for the punchline.
+Weakness: the em dash is a typographic flourish that may not survive every
+rendering, and "then found the backups were empty" still spends a whole beat
+on a second disaster instead of letting one sharp turn do the work.
+
 ### v3 — (to follow)
